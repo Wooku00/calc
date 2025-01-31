@@ -10,6 +10,10 @@ function mutiply(a,b){
   return a * b;
 }
 
+function divide(a,b){
+  return a / b;
+}
+
 function testAdd(){
   console.log(add(1, 1) === 2);
 }
