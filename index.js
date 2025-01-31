@@ -13,3 +13,7 @@ function testAdd(){
 function testSubtact(){
   console.log(subtract(2, 1) == 1);
 }
+
+function mutiply(a,b){
+  return a * b;
+}
