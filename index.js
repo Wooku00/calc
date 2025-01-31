@@ -21,3 +21,11 @@ function testAdd(){
 function testSubtact(){
   console.log(subtract(2, 1) == 1);
 }
+
+function testMutiply(){
+  console.log(mutiply(1,1) == 1)
+}
+
+function testDiv(){
+  console.log(div(1,1) == 1)
+}
