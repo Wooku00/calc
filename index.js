@@ -6,18 +6,14 @@ function subtract(a,b){
   return a - b ;
 }
 
-<<<<<<< HEAD
 function mutiply(a,b){
   return a * b;
 }
 
 function div(a,b){
-  return a / b
- }
- wawa
+  return a / b;
+}
 
-=======
->>>>>>> parent of f7f1fc2 (Add mul & div)
 function testAdd(){
   console.log(add(1, 1) === 2);
 }
@@ -25,4 +21,3 @@ function testAdd(){
 function testSubtact(){
   console.log(subtract(2, 1) == 1);
 }
-
