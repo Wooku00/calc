@@ -6,6 +6,10 @@ function subtract(a,b){
   return a - b ;
 }
 
+function mutiply(a,b){
+  return a * b;
+}
+
 function testAdd(){
   console.log(add(1, 1) === 2);
 }
@@ -14,6 +18,3 @@ function testSubtact(){
   console.log(subtract(2, 1) == 1);
 }
 
-function mutiply(a,b){
-  return a * b;
-}
